@@ -1,3 +1,4 @@
+
 # 🌱 AgriBot - Intelligent Agricultural Assistant
 
 An AI-powered Telegram bot designed to help farmers with intelligent agricultural guidance, weather information, market prices, and the latest agricultural news. Built with **Google Gemini AI**, **Express.js API**, and **MongoDB Atlas** for a comprehensive agricultural assistance platform.
@@ -345,9 +346,12 @@ MIT License - see LICENSE file for details.
 
 - **Issues**: [GitHub Issues](https://github.com/DevNathanHub/AgriBot/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/DevNathanHub/AgriBot/discussions)
-- **Email**: support@agribot.ai
+- **Email**: ai@loopnet.tech
 - **Telegram**: [@agri_kenya](https://t.me/agri_kenya)
 
 ---
 
-**Built with ❤️ for farmers worldwide** 🌾
+![Telegram Running](image-2.png) ![Setup Run](image-1.png) ![Setup Success](image.png) 
+
+
+**Built with ❤️ for farmers worldwide** including my **Beloved Mum ❤️** 🌾
